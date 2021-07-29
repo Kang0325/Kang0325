@@ -79,7 +79,7 @@
 
 ## Project
 ### ERP (Developing) </br>
-<kbd>[![ERP](/Capture/ERP.gif "ERP")](https://github.com/kg4543/MiniProject_ERP)</kbd> </br>
+<kbd>[![ERP](/Capture/ERP.gif "ERP")](https://github.com/Kang0325/MiniProject_Desktop)</kbd> </br>
 ### MES </br>
 <kbd>[![MES](/Capture/MES.gif "MES")](https://github.com/kg4543/MiniProject_SimpleMES)</kbd> </br>
 ### Movie Finder (OpenAPI) </br>
