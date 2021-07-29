@@ -40,15 +40,15 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
 </p>
-- C
-- C++
-- C#
-- HTML5
-- JAVASCRIPT
-- CSS3
-- PYTHON
-- .NET
-- SQL
+- C </br>
+- C++ </br>
+- C# </br>
+- HTML5 </br>
+- JAVASCRIPT </br>
+- CSS3 </br>
+- PYTHON </br>
+- .NET </br>
+- SQL </br>
 </br>
 
 ## Using Tools
@@ -66,18 +66,18 @@
     
   </a>
 </p>
-- Visual Studio
-- Visual Studio Code
-- SSMS(SQL Server Management Studio)
-- Git
-- Putty
-- Raspberry-pi
-- MQTT(Message Queuing Telemetry Transport)
-- VMware
-- VNC Viewer
+- Visual Studio </br>
+- Visual Studio Code </br>
+- SSMS(SQL Server Management Studio) </br>
+- Git </br>
+- Putty </br>
+- Raspberry-pi </br>
+- MQTT(Message Queuing Telemetry Transport) </br>
+- VMware </br>
+- VNC Viewer </br>
 <br/>
 
-## Project (Click the Picture when you want to check detail)
+## Project
 ### ERP (Developing) </br>
 <kbd>[![ERP](/Capture/ERP.gif "ERP")](https://github.com/kg4543/MiniProject_ERP)</kbd> </br>
 ### MES </br>
