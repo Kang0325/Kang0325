@@ -1,7 +1,7 @@
 
 # Welcome KDH Page
 
-- Name : Kang DongHun
+- Name : Kang Dong Hun
 - Email : noworry1@naver.com
 
 - Education
@@ -83,6 +83,6 @@
 ### MES </br>
 <kbd>[![MES](/Capture/MES.gif "MES")](https://github.com/kg4543/MiniProject_SimpleMES)</kbd> </br>
 ### Movie Finder (OpenAPI) </br>
-<kbd>[![Movie](/Capture/Movie.gif "Movie")](https://github.com/kg4543/StudyDesktopApp/tree/main/WPFApp/WpfMiniProject)</kbd> </br>
+<kbd>[![Movie](/Capture/Movie.gif "Movie")](https://github.com/Kang0325/MiniProject_Desktop/tree/main/WpfMiniProject)</kbd> </br>
 
 
