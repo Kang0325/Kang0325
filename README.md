@@ -82,7 +82,7 @@
 <kbd>[![ERP](/Capture/ERP.gif "ERP")](https://github.com/kg4543/MiniProject_ERP)</kbd> </br>
 ### MES </br>
 <kbd>[![MES](/Capture/MES.gif "MES")](https://github.com/kg4543/MiniProject_SimpleMES)</kbd> </br>
-### MovieFinder (OpenAPI) </br>
+### Movie Finder (OpenAPI) </br>
 <kbd>[![Movie](/Capture/Movie.gif "Movie")](https://github.com/kg4543/StudyDesktopApp/tree/main/WPFApp/WpfMiniProject)</kbd> </br>
 
 
